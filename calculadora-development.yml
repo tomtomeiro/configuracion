@@ -1,0 +1,4 @@
+aplicacion:
+  errores:
+    badrequest: "Los valores proporcionados no son correctos"
+    internalServerError: "Error inseperado"
